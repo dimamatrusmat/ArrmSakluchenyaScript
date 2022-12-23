@@ -1,4 +1,4 @@
-"# ArrmSakluchenyaScript" 
+# ArrmSakluchenyaScript
 
 
 Для работы приложения нужнен 1 xslx файл "spel.xlsx" в него ложим по взводно всех солдат
